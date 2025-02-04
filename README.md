@@ -5,4 +5,5 @@ In this lab, you will make a fork of this repo to create your own version of my 
 
 By the end, you will generate a graph in Excel something like this:
 
-![Picture1](https://github.com/user-attachments/assets/aa726deb-2206-4f85-95d6-e49df3beb05e)
+![chart](https://github.com/user-attachments/assets/6b906278-c6e4-4b9d-b227-cafca3bf87e3)
+
